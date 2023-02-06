@@ -1,2 +1,2 @@
 Embeded system diploma 
-# embeded_system_online_diploma
+# Embedded_System_Online_Diploma
